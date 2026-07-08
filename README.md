@@ -25,3 +25,16 @@ Day - 3 : 03/07/26
       - python
       - pylance
       - python image preview
+Day - 4 : 07/07/26
+   - started learning Numpy
+       - how to install numpy (command prompt) cell -- pip install numpy
+       - np.arange() -- arrange the numbers between the given intervals
+       - np.zeros() -- print bydefault float. To convert integer dtype=int
+       - parameter tunning -- system given own parameter
+       - hyperparameter tunning -- user change system parameter as per required
+       
+          - hyperparameter in llm is called FINETUNE
+       - np.ones() -- print out only 1
+       - np.twos | .reshape() -- reshape the numbers
+       - np.random.rand -- it will generate random number between 0 and 1
+       - randint -- random integer
