@@ -32,7 +32,6 @@ Day - 4 : 07/07/26
        - np.zeros() -- print bydefault float. To convert integer dtype=int
        - parameter tunning -- system given own parameter
        - hyperparameter tunning -- user change system parameter as per required
-       
           - hyperparameter in llm is called FINETUNE
        - np.ones() -- print out only 1
        - np.twos | .reshape() -- reshape the numbers
