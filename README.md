@@ -25,6 +25,7 @@ Day - 3 : 03/07/26
       - python
       - pylance
       - python image preview
+
 Day - 4 : 07/07/26
    - started learning Numpy
        - how to install numpy (command prompt) cell -- pip install numpy
@@ -37,3 +38,14 @@ Day - 4 : 07/07/26
        - np.twos | .reshape() -- reshape the numbers
        - np.random.rand -- it will generate random number between 0 and 1
        - randint -- random integer
+
+Day - 5 : 08/07/26
+   - Completed Numpy Crash course
+       - Slicing in Matrix
+       - Operations in maatrix
+       - Masking or Numpy Filters
+   - CV for GEN AI
+       - image and how image can understand by computer
+       - image --> array --> pixel
+       - pixel ranging between 0-255
+       - opening image with numpy, matplotlib and PIL(Python Image Library)
